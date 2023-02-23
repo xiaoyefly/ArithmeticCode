@@ -1,5 +1,5 @@
 using System;
-using ConsoleApplication1.Code.Common;
+using Arithmetic.Code.Common;
 
 public class Day1
 {

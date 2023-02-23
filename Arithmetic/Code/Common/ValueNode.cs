@@ -1,4 +1,4 @@
-namespace ConsoleApplication1.Code.Common
+namespace Arithmetic.Code.Common
 {
     
     // 节点类(存放int值)

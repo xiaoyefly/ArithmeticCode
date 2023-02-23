@@ -1,0 +1,6 @@
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/bin/Debug/Arithmetic.exe
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/bin/Debug/Arithmetic.pdb
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/obj/Debug/Arithmetic.csprojAssemblyReference.cache
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/obj/Debug/Arithmetic.csproj.CoreCompileInputs.cache
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/obj/Debug/Arithmetic.exe
+/Users/xiaoyefly/Project/Github/ArithmeticCode/Arithmetic/obj/Debug/Arithmetic.pdb
