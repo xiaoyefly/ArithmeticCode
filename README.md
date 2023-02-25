@@ -5,6 +5,6 @@ Day1:practice how to use linked-list
 
 
 ```
-[十大算法题](<https://www.google.com/>)
+<a href="<https://www.google.com/>">十大算法题</a>
 
 ```
