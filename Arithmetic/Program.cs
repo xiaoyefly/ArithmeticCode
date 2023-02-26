@@ -1,4 +1,5 @@
 ﻿using System;
+using Arithmetic.Code.Practice.Delegate;
 using Arithmetic.Code.Practice.Queue;
 
 namespace Arithmetic
@@ -8,7 +9,7 @@ namespace Arithmetic
         public static void Main(string[] args)
         {
              Console.Write("执行入口\n");
-             var demo = new PracticeQueue1();
+             var demo = new DelegatePractice1();
         }
     }
 }
