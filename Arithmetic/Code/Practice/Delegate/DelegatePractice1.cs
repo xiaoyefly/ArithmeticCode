@@ -29,7 +29,7 @@ namespace Arithmetic.Code.Practice.Delegate
 
         public void findTarget()
         {
-            walkFun?.Invoke();
+            walkFun?.Invoke(1,2);
         }
     }
     

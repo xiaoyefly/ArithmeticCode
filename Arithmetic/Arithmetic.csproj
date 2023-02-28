@@ -41,6 +41,7 @@
     <ItemGroup>
         <Compile Include="Code\Common\ValueNode.cs" />
         <Compile Include="Code\Practice\Day1.cs" />
+        <Compile Include="Code\Practice\Day2.cs" />
         <Compile Include="Code\Practice\Delegate\DelegatePractice1.cs" />
         <Compile Include="Code\Practice\Queue\PracticeQueue1.cs" />
         <Compile Include="Program.cs" />
