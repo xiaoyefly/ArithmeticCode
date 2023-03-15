@@ -9,7 +9,7 @@ namespace Arithmetic
         public static void Main(string[] args)
         {
              Console.Write("执行入口\n");
-             var demo = new Day2();
+             var demo = new Day3();
         }
     }
 }
